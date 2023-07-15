@@ -28,10 +28,10 @@ With a passion for innovation and a commitment to staying on the cutting edge of
   <a href="https://docs.oracle.com/en/java/"><img src="./assets/java-original.svg" alt="java" height="100" title="Java documentation"></a>
   <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python-original.svg" alt="python" height="100" title="Python documentation"></a>
   <a href="https://golang.org/doc/"><img src="./assets/go-original.svg" alt="golang" height="100" title="Golang documentation"></a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webcat12345"></img>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=web1monster"></img>
 <div>
-    <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=webcat12345&layout=compact&langs_count=16&theme=dracula"/>
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=webcat12345&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+    <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=web1monster&layout=compact&langs_count=16&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=web1monster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
   
