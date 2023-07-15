@@ -8,9 +8,9 @@
 
 <hr>
 
-<div style="display: inline-flex;">
-    <img style="display: inline-flex;" width="45%" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=web1monster&layout=compact&langs_count=16&theme=dracula"/>
-    <img style="display: inline-flex;" width="45%" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=web1monster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+<div style="display: inline;">
+    <img style="display: inline;" width="45%" height="250" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=web1monster&layout=compact&langs_count=16&theme=dracula"/>
+    <img style="display: inline;" width="45%" height="250" src="https://github-readme-stats-sigma-five.vercel.app/api?username=web1monster&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
   
