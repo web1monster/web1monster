@@ -1,4 +1,4 @@
-<p align="center"><a href="https://app.daily.dev/topdev0104"><img src="https://github.com/Topdev0104/Topdev0104/blob/main/devcard.svg" width="400" alt="Top Dev's Dev Card"/></a></p>
+<p align="center"><a href="https://app.daily.dev/elitemonster"><img src="https://api.daily.dev/devcards/53cf3cdef93d463882cf74f69a751542.png?r=gzl" width="400" alt="Michael Johnson's Dev Card"/></a></p>
 
 <p align="center">
  💎 💎 💎 </br>
